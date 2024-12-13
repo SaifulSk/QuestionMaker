@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/QuestionMaker/static/css/main.440dc053.css",
+    "main.js": "/QuestionMaker/static/js/main.82318701.js",
+    "static/js/213.b87a20cb.chunk.js": "/QuestionMaker/static/js/213.b87a20cb.chunk.js",
+    "static/js/732.54b28b95.chunk.js": "/QuestionMaker/static/js/732.54b28b95.chunk.js",
+    "static/js/453.d397e6e5.chunk.js": "/QuestionMaker/static/js/453.d397e6e5.chunk.js",
+    "index.html": "/QuestionMaker/index.html",
+    "main.440dc053.css.map": "/QuestionMaker/static/css/main.440dc053.css.map",
+    "main.82318701.js.map": "/QuestionMaker/static/js/main.82318701.js.map",
+    "213.b87a20cb.chunk.js.map": "/QuestionMaker/static/js/213.b87a20cb.chunk.js.map",
+    "732.54b28b95.chunk.js.map": "/QuestionMaker/static/js/732.54b28b95.chunk.js.map",
+    "453.d397e6e5.chunk.js.map": "/QuestionMaker/static/js/453.d397e6e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440dc053.css",
+    "static/js/main.82318701.js"
+  ]
+}
