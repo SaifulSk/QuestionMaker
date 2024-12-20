@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/QuestionMaker/static/css/main.440dc053.css",
-    "main.js": "/QuestionMaker/static/js/main.82318701.js",
-    "static/js/213.b87a20cb.chunk.js": "/QuestionMaker/static/js/213.b87a20cb.chunk.js",
-    "static/js/732.54b28b95.chunk.js": "/QuestionMaker/static/js/732.54b28b95.chunk.js",
-    "static/js/453.d397e6e5.chunk.js": "/QuestionMaker/static/js/453.d397e6e5.chunk.js",
+    "main.js": "/QuestionMaker/static/js/main.6a5bd2e4.js",
+    "static/js/213.f097e282.chunk.js": "/QuestionMaker/static/js/213.f097e282.chunk.js",
+    "static/js/732.5997bfce.chunk.js": "/QuestionMaker/static/js/732.5997bfce.chunk.js",
+    "static/js/453.5015946a.chunk.js": "/QuestionMaker/static/js/453.5015946a.chunk.js",
     "index.html": "/QuestionMaker/index.html",
     "main.440dc053.css.map": "/QuestionMaker/static/css/main.440dc053.css.map",
-    "main.82318701.js.map": "/QuestionMaker/static/js/main.82318701.js.map",
-    "213.b87a20cb.chunk.js.map": "/QuestionMaker/static/js/213.b87a20cb.chunk.js.map",
-    "732.54b28b95.chunk.js.map": "/QuestionMaker/static/js/732.54b28b95.chunk.js.map",
-    "453.d397e6e5.chunk.js.map": "/QuestionMaker/static/js/453.d397e6e5.chunk.js.map"
+    "main.6a5bd2e4.js.map": "/QuestionMaker/static/js/main.6a5bd2e4.js.map",
+    "213.f097e282.chunk.js.map": "/QuestionMaker/static/js/213.f097e282.chunk.js.map",
+    "732.5997bfce.chunk.js.map": "/QuestionMaker/static/js/732.5997bfce.chunk.js.map",
+    "453.5015946a.chunk.js.map": "/QuestionMaker/static/js/453.5015946a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.440dc053.css",
-    "static/js/main.82318701.js"
+    "static/js/main.6a5bd2e4.js"
   ]
 }
