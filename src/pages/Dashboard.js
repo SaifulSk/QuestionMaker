@@ -122,7 +122,7 @@ function Dashboard() {
     const addItemToPDF = (liItem) => {
       const deleteButton = liItem.querySelector(".delete-question-icon");
       if (deleteButton) {
-        deleteButton.style.display = "none"; // Hide the delete button
+        // deleteButton.style.display = "none"; // Hide the delete button
       }
 
       return new Promise((resolve) => {
@@ -138,7 +138,7 @@ function Dashboard() {
           doc.addImage(imgData, "JPEG", 10, currentY, 190, imgHeight);
           currentY += imgHeight + 5; // Update Y position for the next image
 
-          deleteButton.style.display = "block";
+          // deleteButton.style.display = "block";
 
           resolve();
         });
